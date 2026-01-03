@@ -1,4 +1,4 @@
-package com.BaeBrother.barrier_free_auth_application.barrier_free_auth_application.security.Account;
+package com.BaeBrother.barrier_free_auth_application.barrier_free_auth_application.security.account;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.Authentication;

@@ -1,7 +1,7 @@
 package com.BaeBrother.barrier_free_auth_application.barrier_free_auth_application.security;
 
-import com.BaeBrother.barrier_free_auth_application.barrier_free_auth_application.security.Account.Account;
-import com.BaeBrother.barrier_free_auth_application.barrier_free_auth_application.security.Account.AccountRepository;
+import com.BaeBrother.barrier_free_auth_application.barrier_free_auth_application.security.account.Account;
+import com.BaeBrother.barrier_free_auth_application.barrier_free_auth_application.security.account.AccountRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
